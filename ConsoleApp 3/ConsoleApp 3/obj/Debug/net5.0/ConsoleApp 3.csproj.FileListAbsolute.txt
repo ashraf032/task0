@@ -1,0 +1,33 @@
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ConsoleApp 3.exe
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ConsoleApp 3.deps.json
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ConsoleApp 3.runtimeconfig.json
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ConsoleApp 3.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ConsoleApp 3.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ref\ConsoleApp 3.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ConsoleApp 3.pdb
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ConsoleApp 3.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ConsoleApp 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ConsoleApp 3.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ConsoleApp 3.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ConsoleApp 3.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ConsoleApp 3.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ref\ConsoleApp 3.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ConsoleApp 3.pdb
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\obj\Debug\net5.0\ConsoleApp 3.genruntimeconfig.cache
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\Xceed.Wpf.AvalonDock.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\Xceed.Wpf.Toolkit.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Qasimov\source\repos\ConsoleApp 3\ConsoleApp 3\bin\Debug\net5.0\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
